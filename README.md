@@ -7,7 +7,7 @@ This is the official PyTorch implementation for the LCG method.
 by **Jayant Mahawar**, Angshuman Paul<br>
 
 <p align="center">
-  <img src="Model.png" alt="Workflow" width="1000"/><br>
+  <img src="Model.png" alt="Model" width="1000"/><br>
   <em>Fig: A block diagram of the proposed model consisting of a decomposer and a classifier. The decomposer is designed using an attention-guided encoder, a normal image generator, a disease map generator, a re-constructor, and a discriminator.</em>
 </p><be><br>
 
